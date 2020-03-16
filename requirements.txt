@@ -1,0 +1,4 @@
+tkinter
+functools
+webbrowser
+difflib
